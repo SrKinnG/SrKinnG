@@ -146,32 +146,6 @@
 
 </div>
 
-> ⚙️ **Ativar a snake:** No seu repo `SrKinng/SrKinng`, crie a pasta `.github/workflows/` e adicione o arquivo `snake.yml` com o conteúdo abaixo:
->
-> ```yaml
-> name: Generate Snake
-> on:
->   schedule: [{cron: "0 0 * * *"}]
->   workflow_dispatch:
-> jobs:
->   generate:
->     runs-on: ubuntu-latest
->     steps:
->       - uses: Platane/snk/svg-only@v3
->         with:
->           github_user_name: SrKinng
->           outputs: |
->             dist/github-contribution-grid-snake.svg
->             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
->       - uses: crazy-max/ghaction-github-pages@v3.1.0
->         with:
->           target_branch: output
->           build_dir: dist
->         env:
->           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-> ```
-
----
 
 ## `🔗 SECURE CHANNEL`
 
