@@ -128,7 +128,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=SrKinng&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" />
+<img width="100%" src="[https://github-profile-trophy.vercel.app/?username=SrKinng&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10](https://github-profile-trophy.vercel.app/?username=SrKinnG&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10&rank=SECRET,SSS,SS,S,AAA,AA,A)" />
 
 </div>
 
