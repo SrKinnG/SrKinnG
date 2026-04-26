@@ -122,18 +122,7 @@
 
 </div>
 
----
 
-## `🏆 STATS & ACHIEVEMENTS`
-
-<div align="center">
-
-<img height="195em" src="https://github-readme-stats.vercel.app/api?username=SrKinnG&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=AAFFAA"/>
-
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrKinnG&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=AAFFAA&langs_count=8"/>
-
-</div>
----
 
 ## `📡 ACTIVITY — INTRUSION LOG`
 
