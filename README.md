@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF41&height=200&section=header&text=SrKinng&fontSize=80&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Security%20Researcher%20%7C%20Penetration%20Tester&descAlignY=60&descSize=18&descColor=AAFFAA" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:00FF41&height=200&section=header&text=SrKinnG&fontSize=80&fontColor=00FF41&animation=fadeIn&fontAlignY=38&desc=Security%20Researcher%20%7C%20Penetration%20Tester&descAlignY=60&descSize=18&descColor=AAFFAA" />
 
 </div>
 
@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/▶_STATUS-ONLINE-00FF41?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/OS-KALI_LINUX-00FF41?style=for-the-badge&logo=kalilinux&logoColor=00FF41&labelColor=000000" />
 <img src="https://img.shields.io/badge/FOCUS-PENETRATION_TESTING-FF0000?style=for-the-badge&labelColor=000000" />
-<img src="https://komarev.com/ghpvc/?username=SrKinng&color=00FF41&style=for-the-badge&label=INTRUDERS+DETECTED" />
+<img src="https://komarev.com/ghpvc/?username=SrKinnG&color=00FF41&style=for-the-badge&label=INTRUDERS+DETECTED" />
 
 </div>
 
@@ -22,13 +22,13 @@
 <img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ```bash
-┌──(SrKinng㉿nexus)-[~]
+┌──(SrKinnG㉿nexus)-[~]
 └─$ cat operator.json
 ```
 
 ```json
 {
-  "alias"     : "SrKinng",
+  "alias"     : "SrKinnG",
   "role"      : "Security Researcher & Pentester",
   "location"  : "Brazil 🇧🇷",
   "languages" : ["Python", "Bash", "SQL"],
@@ -51,7 +51,7 @@
 ```
 
 ```bash
-┌──(SrKinng㉿nexus)-[~]
+┌──(SrKinnG㉿nexus)-[~]
 └─$ _
 ```
 
